@@ -1,4 +1,9 @@
 # Uts_Pengolahan_Citra
+| NIM | Nama |
+| - | - |
+| 312210195 | Mohamad Mahdi Alethea |
+| 312210213 | Rahmanta Novrizon |
+|  |  |
 
 Local URL: http://localhost:8501
   Network URL: http://192.168.1.10:8501
